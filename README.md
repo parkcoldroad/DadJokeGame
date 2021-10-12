@@ -2,7 +2,5 @@
 ---
 This game contributes of quiz (like non-sense quiz)
 
-Thank you for downloading my app
+it made by android,java
 
-
-it made by changil-park 
